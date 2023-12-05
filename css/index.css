@@ -1,0 +1,16 @@
+.navbar {
+    background: rgb(202, 18, 113) !important;
+    background: -moz-linear-gradient(0deg, rgba(202, 18, 113, 1) 0%, rgba(102, 16, 61, 1) 100%) !important;
+    background: -webkit-linear-gradient(0deg, rgba(202, 18, 113, 1) 0%, rgba(102, 16, 61, 1) 100%) !important;
+    background: linear-gradient(0deg, rgba(202, 18, 113, 1) 0%, rgba(102, 16, 61, 1) 100%) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ca1271", endColorstr="#66103d", GradientType=1);
+}
+
+.logoctnet{
+    max-width: 125px;
+    height: auto;
+}
+.logoctc{
+    max-width: 125px;
+    height: auto;
+}
